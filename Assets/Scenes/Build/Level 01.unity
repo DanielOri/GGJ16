@@ -136,6 +136,7 @@ MonoBehaviour:
   - {fileID: 1899774630}
   - {fileID: 1058501097}
   description: {fileID: 0}
+  timer: {fileID: 0}
   questions: []
   currentQuestion: 0
   correctButton: 0
@@ -363,6 +364,7 @@ MonoBehaviour:
   - {fileID: 1899774630}
   - {fileID: 1058501097}
   description: {fileID: 0}
+  timer: {fileID: 0}
   questions: []
   currentQuestion: 0
   correctButton: 0
@@ -845,6 +847,7 @@ MonoBehaviour:
   - {fileID: 1899774630}
   - {fileID: 1058501097}
   description: {fileID: 0}
+  timer: {fileID: 0}
   questions: []
   currentQuestion: 0
   correctButton: 0
@@ -899,6 +902,7 @@ MonoBehaviour:
   - {fileID: 1899774630}
   - {fileID: 1058501097}
   description: {fileID: 0}
+  timer: {fileID: 0}
   questions: []
   currentQuestion: 0
   correctButton: 0
@@ -1074,6 +1078,7 @@ MonoBehaviour:
   - {fileID: 1899774630}
   - {fileID: 1058501097}
   description: {fileID: 0}
+  timer: {fileID: 0}
   questions: []
   currentQuestion: 0
   correctButton: 0
@@ -1284,6 +1289,7 @@ MonoBehaviour:
   - {fileID: 1899774630}
   - {fileID: 1058501097}
   description: {fileID: 133951491}
+  timer: {fileID: 1157960588}
   questions:
   - id: 0
     question: Alguma Pergunta
@@ -1693,6 +1699,7 @@ MonoBehaviour:
   - {fileID: 1899774630}
   - {fileID: 1058501097}
   description: {fileID: 0}
+  timer: {fileID: 0}
   questions: []
   currentQuestion: 0
   correctButton: 0
@@ -2135,6 +2142,7 @@ MonoBehaviour:
   - {fileID: 1899774630}
   - {fileID: 1058501097}
   description: {fileID: 0}
+  timer: {fileID: 0}
   questions: []
   currentQuestion: 0
   correctButton: 0

@@ -53,6 +53,7 @@ public class QuestioningsManager : MonoBehaviour {
 
     public Button[] buttons;
     public Text description;
+    public Image timer;
 
     public List<Questions> questions;
 
