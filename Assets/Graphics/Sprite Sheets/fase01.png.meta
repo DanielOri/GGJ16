@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 68261bc4482c04e468a396a79538f40f
+timeCreated: 1454248606
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fase01_0
+    21300002: fase01_1
+    21300004: fase01_2
+    21300006: fase01_3
+    21300008: fase01_4
+    21300010: fase01_5
+    21300012: fase01_6
+    21300014: fase01_7
+    21300016: fase01_8
+    21300018: fase01_9
+    21300020: fase01_10
+    21300022: fase01_11
+    21300024: fase01_12
+    21300026: fase01_13
+    21300028: fase01_14
+    21300030: fase01_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 1111, z: 665, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fase01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1090
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1090
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1090
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 740
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 740
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_7
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 740
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 390
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 390
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 390
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 40
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_14
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 40
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    - name: fase01_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 40
+        width: 220
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 175}
+        - {x: -110, y: -175}
+        - {x: 110, y: -175}
+        - {x: 110, y: 175}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
