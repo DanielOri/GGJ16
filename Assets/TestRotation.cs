@@ -9,12 +9,12 @@ public class TestRotation : MonoBehaviour, IDragHandler {
 
     void Awake () {
         hashRight.Add ("name", "CameraRight");
-        hashRight.Add ("y", 90f);
+        hashRight.Add ("y", 120f);
         hashRight.Add ("time", 0.5f);
         hashRight.Add ("looptype", iTween.EaseType.easeOutSine);
 
         hashLeft.Add ("name", "CameraLeft");
-        hashLeft.Add ("y", -90f);
+        hashLeft.Add ("y", -120f);
         hashLeft.Add ("time", 0.5f);
         hashLeft.Add ("looptype", iTween.EaseType.easeOutSine);
     }
