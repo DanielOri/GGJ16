@@ -48,7 +48,7 @@ public class MenuController : MonoBehaviour, IDragHandler, IPointerClickHandler 
     public void OpenClassMenu () {
         if (classID == 1) {
             isClassMenuOpen = true;
-            //auxiliarCanvas.SetActive (false);
+            auxiliarCanvas.SetActive (false);
             classesMenu.SetActive (true);
         }
     }

@@ -9,7 +9,7 @@ public class MainMenuControl : MonoBehaviour {
         for (int a = 0; a < doors.Length; a++) {
             if (doors[a].isClassMenuOpen) {
                 doors [a].isClassMenuOpen = false;
-                //doors [a].auxiliarCanvas.SetActive (true);
+                doors [a].auxiliarCanvas.SetActive (true);
                 doors [a].classesMenu.SetActive (false);
             }
         }        
