@@ -22,7 +22,7 @@ public class TestRotation : MonoBehaviour, IDragHandler {
     public void OnDrag (PointerEventData eventData) {
         Vector2 dir = Vector2.zero;
         dir = eventData.delta.normalized;
-        Debug.Log (dir);
+
         if (!Camera.main.GetComponent<iTween>()) {
             if (dir.x < -.1f) {
                 iTween.RotateAdd (Camera.main.gameObject, hashRight);

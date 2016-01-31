@@ -15,10 +15,10 @@ public class EnumUtils {
     }
 
         public enum Plague_Control {
-            COLOR
+            COLOR       //usaremos frasco com poção, de 8 cores diferentes
         }
         public enum Magic_Plant_Care {
-            SHAPE
+            SHAPE       //usaremos 8 frascos diferentes com poção, da mesma cor - pode aparecer um copo ao invés de um frasco
         }
 
     public enum Magic_Artifacts {
@@ -28,10 +28,10 @@ public class EnumUtils {
     }
 
         public enum Amulets {
-            SHAPE
+            SHAPE       //usaremos 
         }
 
-        public enum RUNES {
+        public enum Runes {
             GLYPHS
         }
 
@@ -46,22 +46,21 @@ public class EnumUtils {
         TRANSFIGURATION
     }
 
-    public enum Potions {
-        COLOR,
-        SHAPE
-    }
+        public enum Potions {
+            COLOR,
+            SHAPE
+        }
 
-    public enum Gems {
-        COLOR,
-        SHAPE
-    }
+        public enum Gems {
+            COLOR,
+            SHAPE
+        }
 
-    public enum Transfiguration {
-        COLOR,
-        SHAPE,
-        GLYPHS
-    }
-
+        public enum Transfiguration {
+            COLOR,
+            SHAPE,
+            GLYPHS
+        }
     #endregion
 
     #region LevelData

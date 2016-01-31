@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Plugins/Pixelplacement/iTween/Sample/Sample.unity
+- path: Assets/Scenes/Build/Main Menu.unity
   isLoaded: 1
   isActive: 1
