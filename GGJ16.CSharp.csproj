@@ -83,6 +83,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\MainMenuControl.cs" />
     <Compile Include="Assets\MenuController.cs" />
     <Compile Include="Assets\Scripts\Debug\DebugUtils.cs" />
     <Compile Include="Assets\Scripts\Enums\EnumUtils.cs" />

@@ -2,11 +2,12 @@
 using System.Collections;
 using UnityEngine.EventSystems;
 
-public class MenuController : MonoBehaviour, IDragHandler {
+public class MenuController : MonoBehaviour, IDragHandler, IPointerClickHandler {
 
     Hashtable hashRight = new Hashtable ();
     Hashtable hashLeft = new Hashtable ();
 
+    public int classID;
     public bool isClassMenuOpen;
     public GameObject auxiliarCanvas, classesMenu;
 
@@ -21,6 +22,8 @@ public class MenuController : MonoBehaviour, IDragHandler {
         hashLeft.Add ("time", 0.5f);
         hashLeft.Add ("looptype", iTween.EaseType.easeOutSine);
     }
+
+
 
     public void OnDrag (PointerEventData eventData) {
         if (!isClassMenuOpen) {
@@ -38,10 +41,14 @@ public class MenuController : MonoBehaviour, IDragHandler {
         }
     }
 
-    public void OpenClassMenu (int classID) {
+    public void OnPointerClick (PointerEventData eventData) {
+        OpenClassMenu ();
+    }
+
+    public void OpenClassMenu () {
         if (classID == 1) {
             isClassMenuOpen = true;
-            auxiliarCanvas.SetActive (false);
+            //auxiliarCanvas.SetActive (false);
             classesMenu.SetActive (true);
         }
     }
